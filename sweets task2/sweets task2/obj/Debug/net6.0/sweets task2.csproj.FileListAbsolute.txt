@@ -1,0 +1,15 @@
+D:\BA IT\task 2 , pechenie\sweets task2\sweets task2\bin\Debug\net6.0\sweets task2.exe
+D:\BA IT\task 2 , pechenie\sweets task2\sweets task2\bin\Debug\net6.0\sweets task2.deps.json
+D:\BA IT\task 2 , pechenie\sweets task2\sweets task2\bin\Debug\net6.0\sweets task2.runtimeconfig.json
+D:\BA IT\task 2 , pechenie\sweets task2\sweets task2\bin\Debug\net6.0\sweets task2.dll
+D:\BA IT\task 2 , pechenie\sweets task2\sweets task2\bin\Debug\net6.0\sweets task2.pdb
+D:\BA IT\task 2 , pechenie\sweets task2\sweets task2\obj\Debug\net6.0\sweets task2.csproj.AssemblyReference.cache
+D:\BA IT\task 2 , pechenie\sweets task2\sweets task2\obj\Debug\net6.0\sweets task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\BA IT\task 2 , pechenie\sweets task2\sweets task2\obj\Debug\net6.0\sweets task2.AssemblyInfoInputs.cache
+D:\BA IT\task 2 , pechenie\sweets task2\sweets task2\obj\Debug\net6.0\sweets task2.AssemblyInfo.cs
+D:\BA IT\task 2 , pechenie\sweets task2\sweets task2\obj\Debug\net6.0\sweets task2.csproj.CoreCompileInputs.cache
+D:\BA IT\task 2 , pechenie\sweets task2\sweets task2\obj\Debug\net6.0\sweets task2.dll
+D:\BA IT\task 2 , pechenie\sweets task2\sweets task2\obj\Debug\net6.0\refint\sweets task2.dll
+D:\BA IT\task 2 , pechenie\sweets task2\sweets task2\obj\Debug\net6.0\sweets task2.pdb
+D:\BA IT\task 2 , pechenie\sweets task2\sweets task2\obj\Debug\net6.0\sweets task2.genruntimeconfig.cache
+D:\BA IT\task 2 , pechenie\sweets task2\sweets task2\obj\Debug\net6.0\ref\sweets task2.dll
